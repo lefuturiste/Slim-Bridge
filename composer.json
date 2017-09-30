@@ -1,5 +1,5 @@
 {
-    "name": "php-di/slim-bridge",
+    "name": "lefuturiste/slim-bridge",
     "description": "PHP-DI integration in Slim",
     "license": "MIT",
     "type": "library",
