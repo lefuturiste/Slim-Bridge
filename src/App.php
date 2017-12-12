@@ -14,6 +14,7 @@ class App extends \Slim\App
 {
 	protected $bundles = [];
 	protected $hasBundles = false;
+	protected $twigPaths= ['../App/views'];
 
 	public function __construct()
 	{
